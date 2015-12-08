@@ -1,0 +1,71 @@
+2015-10-30 14:58:55,340 - INFO - Path: /Users/carminecalicchio/db is 24.56 free status: Warning
+2015-10-30 14:58:55,558 - ERROR - tomcat it is DOWN
+2015-10-30 14:58:55,560 - INFO - Starting tomcat ... 1
+2015-10-30 14:58:55,680 - ERROR - Service tomcat not started .. 1
+2015-10-30 14:58:55,682 - INFO - Starting tomcat ... 2
+2015-10-30 14:58:55,945 - ERROR - Service tomcat not started .. 2
+2015-10-30 14:58:55,947 - INFO - Starting tomcat ... 3
+2015-10-30 14:58:56,132 - ERROR - Service tomcat not started .. 3
+2015-10-30 14:58:56,133 - ERROR - postgres it is DOWN
+2015-10-30 14:58:56,134 - INFO - Starting postgres ... 1
+2015-10-30 14:58:57,517 - INFO - Service postgres started
+2015-10-30 14:58:57,519 - INFO - dbname=fms_db
+2015-10-30 14:58:57,520 - INFO - dbuser=carminecalicchio
+2015-10-30 14:58:57,716 - INFO - Number of active connections for fms_db user is 1
+2015-10-30 14:58:57,733 - INFO - last case processed in system is 2015-10-23
+2015-11-02 10:35:45,974 - INFO - Path: /Users/carminecalicchio/db is 23.94 free status: Warning
+2015-11-02 10:35:46,008 - ERROR - tomcat it is DOWN
+2015-11-02 10:35:46,008 - INFO - Starting tomcat ... 1
+2015-11-02 10:35:46,033 - ERROR - Service tomcat not started .. 1
+2015-11-02 10:35:46,033 - INFO - Starting tomcat ... 2
+2015-11-02 10:35:46,065 - ERROR - Service tomcat not started .. 2
+2015-11-02 10:35:46,065 - INFO - Starting tomcat ... 3
+2015-11-02 10:35:46,107 - ERROR - Service tomcat not started .. 3
+2015-11-02 10:35:46,108 - ERROR - postgres it is DOWN
+2015-11-02 10:35:46,109 - INFO - Starting postgres ... 1
+2015-11-02 10:35:47,337 - INFO - Service postgres started
+2015-11-02 10:35:47,337 - INFO - dbname=fms_db
+2015-11-02 10:35:47,337 - INFO - dbuser=carminecalicchio
+2015-11-02 10:35:47,417 - INFO - Number of active connections for fms_db user is 1
+2015-11-02 10:35:47,427 - INFO - last case processed in system is 2015-10-23
+2015-11-03 10:43:07,199 - INFO - Path: /Users/carminecalicchio/db is 22.61 free status: Warning
+2015-11-03 10:43:07,260 - ERROR - tomcat it is DOWN
+2015-11-03 10:43:07,262 - INFO - Starting tomcat ... 1
+2015-11-03 10:43:07,307 - ERROR - Service tomcat not started .. 1
+2015-11-03 10:43:07,308 - INFO - Starting tomcat ... 2
+2015-11-03 10:43:07,331 - ERROR - Service tomcat not started .. 2
+2015-11-03 10:43:07,331 - INFO - Starting tomcat ... 3
+2015-11-03 10:43:07,351 - ERROR - Service tomcat not started .. 3
+2015-11-03 10:43:07,352 - INFO - postgres it is UP
+2015-11-03 10:43:07,352 - INFO - dbname=fms_db
+2015-11-03 10:43:07,352 - INFO - dbuser=carminecalicchio
+2015-11-03 10:43:07,371 - INFO - Number of active connections for fms_db user is 1
+2015-11-03 10:43:07,372 - INFO - last case processed in system is 2015-10-23
+2015-11-03 11:04:44,387 - INFO - Path: /Users/carminecalicchio/db is 22.59 free status: Warning
+2015-11-03 11:04:44,436 - ERROR - tomcat it is DOWN
+2015-11-03 11:04:44,438 - INFO - Starting tomcat ... 1
+2015-11-03 11:04:44,499 - ERROR - Service tomcat not started .. 1
+2015-11-03 11:04:44,502 - INFO - Starting tomcat ... 2
+2015-11-03 11:04:44,561 - ERROR - Service tomcat not started .. 2
+2015-11-03 11:04:44,562 - INFO - Starting tomcat ... 3
+2015-11-03 11:04:44,622 - ERROR - Service tomcat not started .. 3
+2015-11-03 11:04:44,624 - INFO - postgres it is UP
+2015-11-03 11:04:44,625 - INFO - dbname=fms_db
+2015-11-03 11:04:44,626 - INFO - dbuser=carminecalicchio
+2015-11-03 11:04:44,646 - INFO - Number of active connections for fms_db user is 1
+2015-11-03 11:04:44,647 - INFO - last case processed in system is 2015-10-23
+2015-11-24 00:45:11,051 - INFO - Path: /Users/carminecalicchio/db is 8.32 free status: Warning
+2015-11-24 00:45:11,070 - ERROR - postgres it is DOWN
+2015-11-24 00:45:11,071 - INFO - Starting postgres ... 1
+2015-11-24 00:45:12,155 - INFO - Service postgres started
+2015-11-24 00:45:12,155 - ERROR - tomcat it is DOWN
+2015-11-24 00:45:12,156 - INFO - Starting tomcat ... 1
+2015-11-24 00:45:12,178 - ERROR - Service tomcat not started .. 1
+2015-11-24 00:45:12,178 - INFO - Starting tomcat ... 2
+2015-11-24 00:45:12,199 - ERROR - Service tomcat not started .. 2
+2015-11-24 00:45:12,199 - INFO - Starting tomcat ... 3
+2015-11-24 00:45:12,219 - ERROR - Service tomcat not started .. 3
+2015-11-24 00:45:12,220 - INFO - dbname=fms_db
+2015-11-24 00:45:12,220 - INFO - dbuser=carminecalicchio
+2015-11-24 00:45:12,277 - INFO - Number of active connections for fms_db user is 1
+2015-11-24 00:45:12,284 - INFO - last case processed in system is 2015-10-23

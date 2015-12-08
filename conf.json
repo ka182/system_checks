@@ -1,0 +1,14 @@
+{
+  "path":["/Users/carminecalicchio/db"],
+  "service": {
+    "postgres": {"cmd": "/usr/local/bin/pg_ctl -w start -D /Users/carminecalicchio/db"},
+    "tomcat": {"cmd": "tomcat"}
+  },
+  "filesystem_treshold":[30,10],
+  "DB":
+    {
+      "dbname":"fms_db",
+      "user":"carminecalicchio",
+      "pass":"fmslite"
+    }
+}
